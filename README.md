@@ -1,1 +1,3 @@
-# Project-New_Era_in_Baseball
+# Project - New Era of Data Analysis in Baseball
+
+In this project, I analyzed the 
